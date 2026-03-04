@@ -1,16 +1,25 @@
 # Workspace skills inventory
-generated_at=2026-03-04T17:24:35+08:00
+generated_at=2026-03-04T17:40:14+08:00
 root=/data/liqidong/codex/nas/skills
 
+/data/liqidong/codex/nas/skills/peterlearning/agents/openai.yaml
+/data/liqidong/codex/nas/skills/peterlearning/references/habit-profile-lqd.md
+/data/liqidong/codex/nas/skills/peterlearning/references/lqd-digest.md
+/data/liqidong/codex/nas/skills/peterlearning/references/skill-selection-matrix.md
+/data/liqidong/codex/nas/skills/peterlearning/references/workflows.md
 /data/liqidong/codex/nas/skills/peterlearning/SKILL.md
 /data/liqidong/codex/nas/skills/README.md
 /data/liqidong/codex/nas/skills/references/market-skill-whitelist-2026-03-04.md
 /data/liqidong/codex/nas/skills/references/merged-learning-matrix.md
 /data/liqidong/codex/nas/skills/references/merged-learning-report.md
 /data/liqidong/codex/nas/skills/references/metadata-audit-2026-03-04.md
+/data/liqidong/codex/nas/skills/references/skill-routing-policy.md
+/data/liqidong/codex/nas/skills/references/superpowers-update-assessment-2026-03-04.md
 /data/liqidong/codex/nas/skills/scripts/apply-lqd-skill-routing.sh
 /data/liqidong/codex/nas/skills/scripts/apply-market-skill-routing.sh
+/data/liqidong/codex/nas/skills/scripts/audit-skills-metadata.sh
 /data/liqidong/codex/nas/skills/scripts/build-merged-learning.sh
+/data/liqidong/codex/nas/skills/scripts/check-superpowers-updates.sh
 /data/liqidong/codex/nas/skills/scripts/install-whitelisted-market-skills.sh
 /data/liqidong/codex/nas/skills/scripts/merge-into-local-skill-homes.sh
 /data/liqidong/codex/nas/skills/scripts/package-skills.sh

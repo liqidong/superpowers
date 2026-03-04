@@ -12,6 +12,24 @@
 ## 合并学习
 见：`references/merged-learning-matrix.md`
 
+## 维护检查
+每周至少执行一次：
+
+```bash
+bash skills/scripts/check-superpowers-updates.sh
+bash skills/scripts/audit-skills-metadata.sh
+```
+
+执行后会在 `skills/references/` 生成当日报告。
+
+策略说明见：`references/skill-routing-policy.md`
+
+可选定时任务（每周一 09:00）：
+
+```cron
+0 9 * * 1 cd /data/liqidong/codex/nas && bash skills/scripts/check-superpowers-updates.sh && bash skills/scripts/audit-skills-metadata.sh
+```
+
 ## 打包
 运行：
 ```bash

@@ -7,3 +7,5 @@ Included:
 - `inventory/` for current skill directories
 - `artifacts/` previous local skill packs
 - `skills-records-2026-03-04.tar.gz` + sha256
+
+Updated: refreshed with latest maintenance scripts and audit reports.
