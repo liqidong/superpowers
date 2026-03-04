@@ -1,0 +1,27 @@
+# Agents skills inventory
+generated_at=2026-03-04T17:24:35+08:00
+root=/home/lqd/.agents/skills
+
+aliyun-cli	has_skill_md=yes	has_openai_yaml=yes
+api-design-principles	has_skill_md=yes	has_openai_yaml=yes
+code-review-excellence	has_skill_md=yes	has_openai_yaml=yes
+comfyui-video-pipeline	has_skill_md=yes	has_openai_yaml=yes
+debugging-strategies	has_skill_md=yes	has_openai_yaml=yes
+devops-engineer	has_skill_md=yes	has_openai_yaml=yes
+docker-compose-networking	has_skill_md=yes	has_openai_yaml=yes
+docker-expert	has_skill_md=yes	has_openai_yaml=yes
+find-skills	has_skill_md=yes	has_openai_yaml=yes
+git-advanced-workflows	has_skill_md=yes	has_openai_yaml=yes
+hybrid-cloud-networking	has_skill_md=yes	has_openai_yaml=yes
+javascript-testing-patterns	has_skill_md=yes	has_openai_yaml=yes
+networking	has_skill_md=yes	has_openai_yaml=yes
+parallel-debugging	has_skill_md=yes	has_openai_yaml=yes
+peterlearning	has_skill_md=yes	has_openai_yaml=yes
+self-improvement	has_skill_md=yes	has_openai_yaml=yes
+stable-diffusion-image-generation	has_skill_md=yes	has_openai_yaml=yes
+style-transfer	has_skill_md=yes	has_openai_yaml=yes
+systematic-debugging	has_skill_md=yes	has_openai_yaml=yes
+tailscale	has_skill_md=yes	has_openai_yaml=yes
+vhs	has_skill_md=yes	has_openai_yaml=yes
+visual-regression-testing	has_skill_md=yes	has_openai_yaml=yes
+vpn	has_skill_md=yes	has_openai_yaml=yes

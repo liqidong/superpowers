@@ -1,0 +1,7 @@
+interface:
+  display_name: "Peter Learning"
+  short_description: "统一运维排障、变更治理与Trilium日志执行技能"
+  default_prompt: "Use $peterlearning and follow references/skill-selection-matrix.md to route task type before execution."
+  brand_color: "#1D4ED8"
+policy:
+  allow_implicit_invocation: true
